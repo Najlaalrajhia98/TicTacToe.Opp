@@ -37,7 +37,3 @@ public class GameState {
         return symbolChoice2;
     }
 }
-}
-
-    // getters and setters
-}
